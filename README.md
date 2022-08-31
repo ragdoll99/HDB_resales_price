@@ -717,7 +717,7 @@ print('Number of features:\n{}'
     57
     
 
-### With Logistics Regression, we achieved a R-squared score of 0.779. Let's try if using Lasso Regression would help us get rid of some of the variables and improve R-squared score (it doesn't make sense to get ridge of individual dummy variables by itself, but it is worth exploring. 
+### With Logistics Regression, we achieved a R-squared score of 0.779. Let's try if using Lasso Regression would help us get rid of some of the variables and improve R-squared score (it doesn't make sense to get rid of individual dummy variables by itself, but it is worth exploring. 
 
 
 ```python
