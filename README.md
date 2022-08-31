@@ -1006,15 +1006,3 @@ for i in gbclf_predict:
     (405000.0, '4 ROOM', '4 ROOM')
     
 
-
-```python
-jupyter nbconvert --execute --to markdown HDB_resale.ipynb
-```
-
-
-      Input In [2]
-        jupyter nbconvert --execute --to markdown HDB_resale.ipynb
-                ^
-    SyntaxError: invalid syntax
-    
-
