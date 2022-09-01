@@ -436,7 +436,7 @@ print('(poly deg 5 + linear) R-squared score (test): {:.3f}'
 
 ```python
 linreg_poly_predict = zip(y_test['resale_price'].head(5), linreg_poly.predict(X_poly_test[0:5]))
-print("Resale_Price  Actual Flat Type  Predicted Flat Type")
+print("Resale Price  Predicted Resale Price")
 for i in linreg_poly_predict:
     print(i)
 ```
