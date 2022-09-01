@@ -441,7 +441,7 @@ for i in linreg_poly_predict:
     print(i)
 ```
 
-    Resale_Price  Actual Flat Type  Predicted Flat Type
+    Resale Price  Predicted Resale Price
     (340000.0, array([333234.94990634]))
     (545000.0, array([521920.08530148]))
     (510000.0, array([535942.28637497]))
